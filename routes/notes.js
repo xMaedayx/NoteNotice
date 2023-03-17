@@ -9,7 +9,7 @@ const {
   readFromFile,
   readAndAppend,
   writeToFile,
-} = require('../helpers/fsUt');  // object destructuring syntax...code assigns the imported functions to constants with the same names
+} = require('../helpers/fsUtils');  // object destructuring syntax...code assigns the imported functions to constants with the same names
 
 // GET Route for retrieving all typed notes....
 notes.get('/', (req, res) => {

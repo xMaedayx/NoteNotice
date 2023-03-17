@@ -23,9 +23,9 @@ app.get('/', (req, res) =>
 );
 
 // GET Route for feedback page
-app.get('/feedback', (req, res) =>
-  res.sendFile(path.join(__dirname, '/public/routes/notes.html'))
-);
+app.get('/notes', (req, res) =>
+  res.sendFile(path.join(__dirname, '/public/notes.html'))
+)
 
 // // Wildcard route to direct users to a 404 page
 // app.get('*', (req, res) =>

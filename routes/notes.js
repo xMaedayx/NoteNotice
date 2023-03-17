@@ -60,7 +60,7 @@ notes.post('/', (req, res) => {
     const newNote = {
      title,
      text,
-     title_id: uuidv4(),
+     id: uuidv4(),
      };
      {/*a custom utility function that reads
      the contents of a JSON file, appends the 

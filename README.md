@@ -64,3 +64,9 @@ Application allows users to delete notes.
 ## Submission 
 The URL of the functional, deployed application.
 The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+
+<img width="1439" alt="deployed _screenshot" src="https://user-images.githubusercontent.com/120540407/226063650-4fd7e36f-0fa3-4dce-854f-0eeadbb0c6f2.png">
+https://dashboard.heroku.com/apps/young-citadel-37003
+https://github.com/xMaedayx/NoteNotice.git
+
+

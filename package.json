@@ -1,0 +1,19 @@
+{
+  "name": "notenotice",
+  "version": "8.2.4",
+  "description": "## User Story  AS A small business owner I WANT to be able to write and save notes SO THAT I can organize my thoughts and keep track of tasks I need to complete",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "xmaedayx"
+  },
+  "keywords": [
+    "mooo"
+  ],
+  "author": "MFOB",
+  "license": "MIT"
+}
